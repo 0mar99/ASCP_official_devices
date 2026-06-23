@@ -1,0 +1,32 @@
+{
+  "Xiaomi": [
+    {
+      "name": "Poco F5 / Redmi Note 12 Turbo",
+      "codename": "marble",
+      "maintainer": "Ashwani",
+      "github": "https://github.com/beingashwani",
+      "telegram": "https://t.me/being_ashwani",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    },
+    {
+      "name": "Redmi Turbo 3 / POCO F6",
+      "codename": "peridot",
+      "maintainer": "kenway214",
+      "github": "https://github.com/kenway214",
+      "telegram": "https://t.me/ph12nex",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+=== May 20, 2026 ===
+- Update latest source lumine
+- Update kernel android12-5.10-256
+- Include SUSFS & KernelSU-Next Latest
+- Added New Dolby Ui
+- Added New Touch Polling Rate Ui
+- Update parameter post boot kernel
+- Added input booost powerkey
+- Pin msm_irqbalance to system-background
+- Force kawase2 blur
+- Optimize dalvik config
+- Enable QCRIL power saving
+- Set Game Refresh Rate 120
+- Move background cpu-01
+- Update swap zram zlo-lre
+- Improve stability & performance
+
+=== April 21, 2026 ===
+- Update blobs and firmware from OS3.0.3.0.VMRMIXM
+- New update GameBar!
+- New Update Dolby Dax!
+- New Touch Polling Rate!
+- Switch audio prebuilts blobs
+- Optimize cpuset configs audio-app
+- fixup! wakeup device denials
+- Improve Gaming and Thermal Profiles
+- fixup! Set default game 120fps
+- Enable UserfaultFD based GC
+- Update sf.early.app high speed
+- Improve zram with performance
+- Improve stability and performance.
+- Merge LA.VENDOR.1.0.r2-16400-WAIPIO.QISI15.0
+- Merge audio-kernel: Merge tag LA.VENDOR.1.0.r2
+- camera-kernel: Merge tag AU_TECHPACK_CAMERA
+- display-drivers: Merge tag AU_TECHPACK_DISPLAY
+- video-driver: Merge tag AU_TECHPACK_VIDEO
+- mmrm-driver: Merge tag AU_TECHPACK_VIDEO
+- datarmnet: Merge tag LA.VENDOR.1.0.r2
+- datarmnet-ext: Merge tag LA.VENDOR.1.0.r2
+- dataipa: Merge tag LA.VENDOR.1.0.r2
+- wlan/qcacld-3.0: Merge tag LA.VENDOR.1.0.r2
+- wlan/qca-wifi-host-cmn: Merge tag LA.VENDOR.1.0.r2
+- display: dsi: Add missing max_hs_timer_supported
+
+=== March 25, 2026 ===
+- Update latest march security
+- Bring back non audio prebuilt
+- Bring back use lzo-lre Compression
+- Update GameBar Latest
+- Unlock max prime cpu freq in default thermal profile
+- Improve plug charge optimize
+- Improve performance & stability
+
+=== February 11, 2026 ===
+- Initial BP4A release
+- Enable Blur by Default
+- Always use lz4 performance
+- Disable high performance trasitions
+- Applied various performance tweaks
+
+=== November 19, 2025 ===
+- Add feature system ui in advanced reboot
+- Add Choose on/off HDR Display
+- Fixup! Dolby heating in play music,video,etc.
+- Fixup! loudspeaker call in/out
+- Fixup! cost performance with vendor.prop
+- Fixup! freeze reboot system and recovery
+- Fixup! freeze choose reboot system/recovery
+- Change parts to sdm845-common
+- Revamp and improve per-app refresh rate, thermal profile , etc.
+- Improve stability & performance.
+
+=== November 12, 2025 ===
+- Update blobs and firmware from OS2.0.210.0.VMRMIXM
+- Update blobs GPS from OS2.0.210.0.VMRMIXM
+- Fixed! Calibrate GPS error in Calibrate
+- Disable dynamic FPS
+- Disable flicker for HDR & Video
+- Relax timer refresh rate
+- Implement adaptive color refresh rate
+- Correct audio merge tag CLO
+- Add GameBar New Application
+- overlay: Debounce auto brightness lowers
+- Improve zram lzo-lre
+- Fixed! 5Gghz hotspot
+- Add silence spam logcat sensorservice
+
+=== October 28, 2025 ===
+- Initial release
