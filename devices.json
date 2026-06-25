@@ -27,6 +27,20 @@
           "deprecated": false
         }
       ]
+    },
+    {
+      "name": "POCO F3 / Mi 11X / Redmi K40",
+      "codename": "alioth",
+      "maintainer": "zenzer0s",
+      "github": "https://github.com/zenzer0s",
+      "telegram": "https://t.me/zenzer0s",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
     }
   ]
 }
