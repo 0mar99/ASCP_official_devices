@@ -99,6 +99,34 @@
           "deprecated": false
         }
       ]
+    },
+    {
+      "name": "OnePlus 13R",
+      "codename": "giulia",
+      "maintainer": "0mar",
+      "github": "https://github.com/0mar99",
+      "telegram": "https://t.me/Omar99A",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    },
+    {
+      "name": "OnePlus Ace 5",
+      "codename": "giuliac",
+      "maintainer": "0mar",
+      "github": "https://github.com/0mar99",
+      "telegram": "https://t.me/Omar99A",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
     }
   ],
   "Nothing": [
