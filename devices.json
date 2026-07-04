@@ -86,5 +86,21 @@
         }
       ]
     }
+  ],
+  "Nothing": [
+    {
+      "name": "CMF Phone 1",
+      "codename": "Tetris",
+      "maintainer": "Anshuman X",
+      "github": "https://github.com/maxxcodebug",
+      "telegram": "https://t.me/AnshumanAhirwar",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    }
   ]
 }
