@@ -69,6 +69,20 @@
           "deprecated": false
         }
       ]
+    },
+    {
+      "name": "Redmi 12 5G / Poco M6 Pro 5G / Redmi Note 12R",
+      "codename": "sky",
+      "maintainer": "kAiF",
+      "github": "https://github.com/askthekaif",
+      "telegram": "https://t.me/kAiF_00z",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
     }
   ],
   "OnePlus": [
