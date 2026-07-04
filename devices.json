@@ -56,5 +56,21 @@
         }
       ]
     }
+  ],
+  "OnePlus": [
+    {
+      "name": "OnePlus Nord CE 3 Lite / N30",
+      "codename": "larry",
+      "maintainer": "Viaan",
+      "github": "https://github.com/n0escape=exe",
+      "telegram": "https://t.me/n0escape-exe",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    }
   ]
 }
