@@ -29,6 +29,20 @@
       ]
     },
     {
+      "name": "Redmi K20 Pro",
+      "codename": "raphael",
+      "maintainer": "BULLA",
+      "github": "https://github.com/bulla0x",
+      "telegram": "https://t.me/Bulla03x",
+      "supported_versions": [
+        {
+          "version_code": "6.0",
+          "stable": true,
+          "deprecated": false
+        }
+      ]
+    },
+    {
       "name": "POCO F3 / Mi 11X / Redmi K40",
       "codename": "alioth",
       "maintainer": "zenzer0s",
